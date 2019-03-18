@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TripAction_Interview_Assignment</string>
+    <string name="action_settings">Settings</string>
+    <string name="no_results">No Results</string>
+</resources>
